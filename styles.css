@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: olive;
     margin-top: 10%;
     margin-left: 10%;
     text-align: left;
@@ -7,13 +7,9 @@ body {
     font-family: 'Maven Pro', sans-serif;
 }
 
-h1, h3 {
+h1, h2, h3 {
     color: white;
     font-family: 'Abril Fatface', cursive;
-}
-
-h2 {
-    color: whitesmoke;
 }
 
 a {
