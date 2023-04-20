@@ -1,6 +1,18 @@
 body {
-    background-color: bisque;
+    background-color: black;
     margin-top: 10%;
     margin-left: 10%;
     text-align: left;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+h3 {
+    color: white;
 }
